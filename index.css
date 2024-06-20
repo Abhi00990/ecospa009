@@ -1,0 +1,158 @@
+
+.top-container{
+    border: 2px solid;color: rgb(23, 22, 22);
+    border-radius: 10px;
+    box-shadow:70px solid rgb(18, 18, 18);
+    padding: 12px;
+    image-orientation: from-image;
+    background-image: url(vecteezy_spa-natural-background-illustration_23701997.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.Performance{
+    background-image:url(image_processing20220103-19040-2urele.gif);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    padding: 90px;
+
+}
+.fool{
+    text-align: center;
+    color: #ec61ad;
+}
+
+
+.footer{
+    text-align:left;
+    padding:6px;
+}
+.broom{
+    border-radius:8px;
+    text-align:left;
+    color: #faf7f4;
+    font-size: 1em;
+    background-color:#f8b78f;
+    background-image:url(spa\ 02.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    padding: 20px;
+
+}
+.a:hover{
+
+    color:#f7f5f4;
+    background-color:#f8b78f;
+}
+.a{
+    text-decoration: none;
+    padding: 5px;
+    border: 2px;
+    background-color: #ec61ad;
+    box-shadow: 3px black;
+    border-radius: 4px;
+    color: white;
+}
+h3{color:whitesmoke;text-transform: uppercase;}
+h1{color:#f8b78f;
+   font-size:10em;
+   text-transform:uppercase;
+   text-shadow: 10px solid black;
+}
+h3{text-transform: uppercase;
+  font-size:2em;
+  background-color:#f8b78f;
+  color: rgb(252, 246, 246);
+  padding: 4px;
+  border-radius: 5px;
+}
+.lower-container{ 
+    background-color:white;
+    border: 2px white;
+    border-radius: 10px;
+    box-shadow: 10PX solid black;
+    padding:1em;
+}
+h4{
+    text-transform: uppercase;
+    font-size: 1em;
+}
+h5{
+   text-transform: uppercase;
+   font-size:2em;
+   background-color:#f8b78f;
+   color: white;
+}
+
+h6{
+    font-size: 20px;
+   
+}
+.p3{
+    background-image: url(giphy\ \(2\).webp);
+    background-color: #f8b78f;
+    color: white;
+    background-repeat: no-repeat;
+    background-size:auto;
+    border-radius: 3px;
+    padding: 10px;
+    background-position: right;
+}
+.p2{font-weight: 100;
+    font-size: 20px;
+    font-display: bold;
+}
+.textbox{
+    
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size:auto;
+    padding:1q00px;
+    background-color: #f8b78f;
+}
+.navbar{
+    border:1px;
+    background-color:solid rgb(243, 238, 238);
+    padding: 10px;
+    overflow:hidden;
+    text-align: right;
+    font-size:1em;
+}
+.navbar a{
+    float: right;
+    display:block;
+    color:rgb(13, 13, 13);
+    text-align:right;
+    text-decoration: none;
+    padding:10px;
+
+}
+.navbar a:hover{
+    background-color: #f8b78f;
+    color: rgb(251, 249, 249);
+}
+
+.textarea{
+    padding:13px;
+    font-style: italic;
+}
+
+a:hover{
+    background-color: black;
+    color: white;
+
+}
+.heading-car{
+    background-color:white;
+    color: black;
+}
+h6{
+   font-size:2em;
+   text-transform: uppercase;
+   color: whitesmoke;
+   padding: 5px;
+}
+
+
+
